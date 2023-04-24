@@ -1,0 +1,3 @@
+KPGNN/__pycache__
+KPGNN/incremental_test_100messagesperday
+datasets/Twitter/features_69612_0709_spacy_lg_zero_multiclasses_filtered.npy
