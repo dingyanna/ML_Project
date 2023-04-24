@@ -1,4 +1,4 @@
-# augmented KPGNN 
+# Augmented KPGNN 
 
 This project builds on the code for the Web Conference 2021 paper [Knowledge-Preserving Incremental Social Event Detection via Heterogeneous GNNs](https://arxiv.org/pdf/2101.08747.pdf).
 
